@@ -58,7 +58,7 @@ Next to work I am also studying Computer Science at the BFH (Berner Fachhochschu
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-white-stacked-rgb.png" height="32" width="32" alt="GitLab">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" height="32" width="32" alt="Arduino">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="32" width="32" alt="Node.js">
-<img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" height="32" width="32" alt="Postman">
+<img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" height="32" alt="Postman">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" height="32" width="32" alt="WordPress">
 
 ### Editors I've used
