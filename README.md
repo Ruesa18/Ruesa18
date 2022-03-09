@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=168011&center=true&vCenter=true&width=600&lines=Hello+there,+my+name+is+Sandro+Rüfenacht+👋;+Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 ## Hello there, my name is Sandro Rüfenacht 👋
 I am a software developer and Web-Dev Coach for apprentices.<br>
 Pronouns: He/Him
 
-At work I am currently working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from ground up and now we just keep it running. Next to that we teach apprentices how the computer and the internet works, we teach them how to code and we do assessments with them. If we have some free time at work, we try to also help the it-apprentices develop new microservices for our cluster.<br>
+At work I am currently working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from ground up and now we just keep it running. Next to that we teach apprentices how the computer and the internet works, we teach them how to code and we do assessments with them. If we have some free time at work, we try to also help the IT-apprentices develop new microservices for our cluster.<br>
 Next to work I am also studying Computer Science at the BFH (Berner Fachhochschule).<br>
 
 <hr>
