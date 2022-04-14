@@ -81,7 +81,8 @@ Next to work I am also studying Computer Science at the BFH (Berner Fachhochschu
 <details>
   <summary>GitHub Stats</summary>
 
-  <img alt="Sandro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ruesa18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Sandro's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruesa18&theme=blue-green&hide_border=true">
+  <img alt="Sandro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ruesa18&show_icons=true&theme=blue-green&hide_border=true"/>
 </details>
 
 [linkedin]: https://ch.linkedin.com/in/sandro-r%C3%BCfenacht
