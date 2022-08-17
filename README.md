@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 I am a software developer and Web-Dev Coach for apprentices.<br>
 Pronouns: He/Him
 
-At work I am currently working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from ground up and now we just keep it running. Next to that we teach apprentices how the computer and the internet works, we teach them how to code and we do assessments with them. If we have some free time at work, we try to also help the IT-apprentices develop new microservices for our cluster.<br>
-Next to work I am also studying Computer Science at the BFH (Berner Fachhochschule).<br>
+After my apprenticeship at the [BiCT AG](https://www.bict.ch) as a software developer I stayed for about 1.5 years. In that time I was working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from the ground up and kept it alive. Next to that we taught apprentices how the computer and the internet works, we taught them how to code and we did assessments with them. Whenever we had some free time at work, we tried to also help the IT-apprentices develop new microservices for our cluster.<br>
+Next to work I also started studying Computer Science at the BFH (Berner Fachhochschule).<br>
+<br>
+As of today, I am working for a new company called [whatwedo GmbH](https://www.whatwedo.ch/). I will be writing PHP-Code for their web applications as well as helping them improve their docker-based CI/CD-System.<br>
+Next to that my studies continue. 😉<br>
 
 <hr>
 
