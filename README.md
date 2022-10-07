@@ -60,7 +60,7 @@ Next to that my studies continue. 😉<br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="32" width="32" alt="npm">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="32" width="32" alt="Git">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="32" width="32" alt="GitHub">
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-white-stacked-rgb.png" height="32" width="32" alt="GitLab">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" height="32" width="32" alt="GitLab">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" height="32" width="32" alt="Arduino">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="32" width="32" alt="Node.js">
 <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" height="32" alt="Postman">
