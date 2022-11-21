@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=168011&center=true&vCenter=true&width=600&lines=Hello+there,+my+name+is+Sandro+Rüfenacht+👋;+Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 ## Hello there, my name is Sandro Rüfenacht 👋
-I am a software developer and Web-Dev Coach for apprentices.<br>
+I am a passionate software developer.<br>
 Pronouns: He/Him
 
-After my apprenticeship at the [BiCT AG](https://www.bict.ch) as a software developer I stayed for about 1.5 years. In that time I was working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from the ground up and kept it alive. Next to that we taught apprentices how the computer and the internet works, we taught them how to code and we did assessments with them. Whenever we had some free time at work, we tried to also help the IT-apprentices develop new microservices for our cluster.<br>
+After my apprenticeship at the [BiCT AG](https://www.bict.ch) as a software developer I stayed for about 1.5 years. In that time I was working on a self-hosted kubernetes cluster with a colleague of mine. We built that thing from the ground up and kept it alive. Next to that we taught apprentices how the computer and the internet works, we taught them how to code and we did assessments with them. Whenever we had some free time at work, we tried to help the IT-apprentices develop new microservices for our cluster.<br>
 Next to work I also started studying Computer Science at the BFH (Berner Fachhochschule).<br>
 <br>
-As of today, I am working for a new company called [whatwedo GmbH](https://www.whatwedo.ch/). I will be writing PHP-Code for their web applications as well as helping them improve their docker-based CI/CD-System.<br>
+As of today, I am working for another company called [whatwedo GmbH](https://www.whatwedo.ch/). I am writing PHP-Code for their web applications as well as helping them improve their docker-based CI/CD-System.<br>
 Next to that my studies continue. 😉<br>
 
 <hr>
