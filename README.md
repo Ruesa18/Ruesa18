@@ -13,7 +13,8 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
 <hr>
 
 ## Contact
-[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin] <br>
+[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://ch.linkedin.com/in/sandro-r%C3%BCfenacht)
+<br>
 <hr>
 
 ## Languages and Tools
@@ -24,17 +25,21 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
 
 ### Programming/Scripting Languages
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" width="32" alt="JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="32" width="32" alt="TypeScript">
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="32" width="32" alt="PHP">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="32" width="32" alt="Java">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="32" width="32" alt="Kotlin">
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="32" width="32" alt="PHP">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" height="32" width="32" alt="Bash">
 
 ### Libraries/Frameworks
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" height="32" width="32" alt="JQuery"><img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" height="32" width="32" alt="Laravel">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" height="32" width="32" alt="JQuery">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="32" width="32" alt="Spring">
+<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" height="32" width="32" alt="Laravel">
+<img src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" height="32" width="32" alt="Symfony">
+<img src="https://crud.docs.araise.dev/media/araise-neg.svg" height="32" width="32" alt="araise CrudBundle">
 
 ### Database Systems
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="32" width="32" alt="MySQL">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="32" width="32" alt="PostgreSQL">
 
 ### Other Technologies
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" height="32" width="32" alt="Kubernetes"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="32" width="32" alt="Docker">
@@ -71,5 +76,3 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
   <img alt="Sandro's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruesa18&theme=blue-green&hide_border=true">
   <img alt="Sandro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ruesa18&show_icons=true&theme=blue-green&hide_border=true"/>
 </details>
-
-[linkedin]: https://ch.linkedin.com/in/sandro-r%C3%BCfenacht
