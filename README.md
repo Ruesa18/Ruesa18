@@ -13,7 +13,7 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
 <hr>
 
 ## Contact
-[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://ch.linkedin.com/in/sandro-r%C3%BCfenacht)
+[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png" />](https://ch.linkedin.com/in/sandro-r%C3%BCfenacht)
 <br>
 <hr>
 
@@ -67,9 +67,10 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
 
 ### Editors I've used
 <div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="32" width="32" alt="Atom"><img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" height="32" alt="Eclipse IDE">
-  <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" height="32" width="32" alt="IntelliJ IDEA">
-  <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" height="32" width="32" alt="PhpStorm">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" height="32" width="32" alt="Atom">
+  <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" height="32" alt="Eclipse IDE">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" height=  "32" width="32" alt="IntelliJ IDEA">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.png" height="32" width="32" alt="PhpStorm">
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" height="32" width="32" alt="Visual Studio Code">
   <img src="https://www.sublimehq.com/images/sublime_text.png" height="32" width="32" alt="Sublime Text">
   <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96.png" height="32" width="32" alt="Xcode">
