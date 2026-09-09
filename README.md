@@ -13,7 +13,7 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
 <hr>
 
 ## Contact
-[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png" />](https://ch.linkedin.com/in/sandro-r%C3%BCfenacht)
+[<img align="left" alt="Sandro Rüfenacht | LinkedIn" width="22px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" />](https://ch.linkedin.com/in/sandro-r%C3%BCfenacht)
 <br>
 <hr>
 
