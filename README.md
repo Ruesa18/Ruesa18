@@ -89,7 +89,7 @@ By 2023 (in my 5th semester) I decided to stop studying and focus my time on wor
   <summary>GitHub Stats</summary>
 
   <div>
-    <img alt="Sandro's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruesa18&theme=blue-green&hide_border=true">
-    <img alt="Sandro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ruesa18&show_icons=true&theme=blue-green&hide_border=true"/>
+    <img alt="Sandro's Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ruesa18&theme=blue-green&hide_border=true">
+    <img alt="Sandro's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Ruesa18&show_icons=true&theme=blue-green&hide_border=true"/>
   </div>
 </details>
